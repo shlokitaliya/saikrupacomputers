@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Core Pages -->
+    <url>
+        <loc>https://saikrupacomputers.com/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/index.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Services -->
+    <url>
+        <loc>https://saikrupacomputers.com/services/computer-laptop.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/services/networking.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/services/wifi-setup.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/services/cctv-projects.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/services/cctv-installation.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Knowledge Center / Blog Main -->
+    <url>
+        <loc>https://saikrupacomputers.com/blog/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Articles: CCTV -->
+    <url>
+        <loc>https://saikrupacomputers.com/blog/cctv/choose-cctv-camera.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/blog/cctv/cctv-installation-guide.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/blog/cctv/dome-vs-bullet-cctv.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/blog/cctv/how-many-cctv-cameras.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/blog/cctv/cctv-maintenance.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Articles: Computers -->
+    <url>
+        <loc>https://saikrupacomputers.com/blog/computers/laptop-repair-or-replacement.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/blog/computers/slow-laptop-causes.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://saikrupacomputers.com/blog/computers/computer-maintenance.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Articles: Networking -->
+    <url>
+        <loc>https://saikrupacomputers.com/blog/networking/small-office-networking.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Articles: WiFi -->
+    <url>
+        <loc>https://saikrupacomputers.com/blog/wifi/improve-wifi-coverage.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>
